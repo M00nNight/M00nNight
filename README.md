@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m00nnight&label=Profile%20views&color=0e75b6&style=flat" alt="m00nnight" /> </p>
 
-- 🔭 I’m currently working on **Globe Pin based on react js**
 
 - 🌱 I’m currently learning **React js, Next js, Node js**
 
