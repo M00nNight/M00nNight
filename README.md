@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **khanzamil267@gmail.com**
 
-- ⚡ Fun fact **I think, you are pretty beautiful**
+- ⚡ Fun fact **I think, you are pretty awesome**
 
 
 
