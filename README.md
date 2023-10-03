@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zamil Khan</h1>
-<h3 align="center">A passionate frontend developer from Heart ❤️ </h3>
+<h3 align="center">A passionate developer from Heart ❤️ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m00nnight&label=Profile%20views&color=0e75b6&style=flat" alt="m00nnight" /> </p>
 
