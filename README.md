@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React js, Next js, Node js**
 
-- 📝 I regularly read articles on [www.google.in](www.google.in)
+- 📝 I regularly read articles on [Google](https://www.google.in)
 
 - 💬 Ask me about **React, Web development, JavaScript**
 
