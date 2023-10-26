@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zamil Khan</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D02EF7&random=false&width=435&lines=My+name+is+khan+An+I+am+a+software+Engineer;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D02EF7&random=false&width=435&lines=My+name+is+khan+An+I+am+a+software+Engineer;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
+
 <h3 align="center">A passionate developer from Heart ❤️ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m00nnight&label=Profile%20views&color=0e75b6&style=flat" alt="m00nnight" /> </p>
