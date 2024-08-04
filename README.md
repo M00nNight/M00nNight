@@ -3,14 +3,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m00nnight&label=Profile%20views&color=0e75b6&style=flat" alt="m00nnight" /> 
 </p>
-
-<h3 align="center">Creative and Innovative Full Stack Developer</h3>
-
-
+<h3 align="center">Creative and Innovative Software Engineer</h3>
 ---
 
 ### 👨‍💻 About Me
-Innovative Full Stack Developer with experience in building impactful and user-friendly websites and applications. Specializes in Full-Stack technologies and passionate about modern web standards and cutting-edge development techniques. Proven track record of leading successful projects from concept to deployment.
+Innovative Full Stack Developer with experience in building impactful and user-friendly websites and applications. Specializes in Full-Stack technologies and is passionate about modern web standards and cutting-edge development techniques. Proven track record of leading successful projects from concept to deployment.
 
 ---
 
@@ -65,6 +62,10 @@ Innovative Full Stack Developer with experience in building impactful and user-f
 Maharshi Dayanand University, Rohtak, Haryana  
 August 2021 to May 2024
 
+**Diploma in Engineering**  
+Govt. Polytechnic Sirsa, Haryana  
+2019-2021
+
 ---
 
 ## 📊 GitHub Stats
@@ -107,3 +108,9 @@ August 2021 to May 2024
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=m00nnight&repo=pride&theme=radical" alt="Pride" />
   </a>
 </p>
+
+---
+
+## 📜 Certifications
+- **Full-Stack Web Development**, FrontEnd Master, Dec 2023
+- **Full-Stack Development**, 100xdevs, June 2024
