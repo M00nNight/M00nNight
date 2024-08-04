@@ -65,18 +65,6 @@ August 2021 to May 2024
 **Diploma in Engineering**  
 Govt. Polytechnic Sirsa, Haryana  
 2019-2021
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m00nnight&show_icons=true&locale=en&layout=compact" alt="m00nnight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m00nnight&show_icons=true&theme=radical" alt="m00nnight" />
-</p>
-
 ---
 
 ## 🚀 Projects
