@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=m00nnight&label=Profile%20views&color=0e75b6&style=flat" alt="m00nnight" /> 
 </p>
 
-<h3 align="center">Aspiring Software Engineer | DevOps Enthusiast</h3>
+<h3 align="center">Creative and Innovative Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a recent B.Tech graduate in Computer Science and Engineering from Maharshi Dayanand University, Rohtak. I am passionate about software development and currently expanding my skills in modern web technologies and DevOps.
+Innovative Full Stack Developer with experience in building impactful and user-friendly websites and applications. Specializes in Full-Stack technologies and passionate about modern web standards and cutting-edge development techniques. Proven track record of leading successful projects from concept to deployment.
 
 ---
 
@@ -48,12 +48,25 @@ I am a recent B.Tech graduate in Computer Science and Engineering from Maharshi 
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=devops&logoColor=white"/>
-  <!-- Add more badges as necessary -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
+
+---
+
+## 🏫 Education
+**Bachelor's in Computer Science**  
+Maharshi Dayanand University, Rohtak, Haryana  
+August 2021 to May 2024
 
 ---
 
@@ -68,13 +81,32 @@ I am a recent B.Tech graduate in Computer Science and Engineering from Maharshi 
 
 ---
 
+## 🚀 Projects
+
+### Corinna AI
+**FullStack SAAS WebApp**  
+[GitHub Repository](https://github.com/M00nNight/corinnaAI)  
+**Tech Stack**: Next.js 15, Clerk, Neon, Uploadcare, Bun, Stripe, Pusher, OpenAI  
+**Features**: AI-powered chatbot, email marketing automation, user authentication, serverless functions, file uploading, payment processing, and real-time updates.  
+**Skills**: Full-stack development, AI integration, email marketing, authentication, serverless architecture, and payment processing.
+
+### Pride
+**Full-stack SAAS Web App**  
+[GitHub Repository](https://github.com/M00nNight/pride)  
+**Frontend**: React, Redux, GraphQL, JavaScript/TypeScript  
+**Backend**: Node.js, Express.js, PostgreSQL  
+**Infrastructure**: AWS, Docker/Kubernetes, CDN  
+**Additional Tools**: WebSocket, OAuth, Git/GitHub  
+**Outcome**: Enabled development of a scalable, performant, and feature-rich platform. Drove widespread adoption and acclaim.
+
+---
+
 ## 📌 Pinned Repositories
 <p align="center">
-  <a href="https://github.com/m00nnight/repo1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m00nnight&repo=repo1&theme=radical" alt="repo1" />
+  <a href="https://github.com/M00nNight/corinnaAI" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m00nnight&repo=corinnaAI&theme=radical" alt="Corinna AI" />
   </a>
-  <a href="https://github.com/m00nnight/repo2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m00nnight&repo=repo2&theme=radical" alt="repo2" />
+  <a href="https://github.com/M00nNight/pride" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m00nnight&repo=pride&theme=radical" alt="Pride" />
   </a>
-  <!-- Add more pinned repositories as necessary -->
 </p>
