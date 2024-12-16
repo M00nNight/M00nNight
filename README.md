@@ -7,30 +7,30 @@
 ---
 
 ### 👨‍💻 About Me
-Innovative Full Stack Developer with experience in building impactful and user-friendly websites and applications. Specializes in Full-Stack technologies and is passionate about modern web standards and cutting-edge development techniques. Proven track record of leading successful projects from concept to deployment.
+Motivated and results-driven Software Engineer with a B.Tech in Computer Science. Currently interning as a Full-Stack Developer at **Fuuss B.V.**, I specialize in Full-Stack Development and building efficient, scalable web applications. Passionate about cloud computing, DevOps, and leveraging cutting-edge technologies to create impactful solutions.
 
 ---
 
 ### 🌱 Currently Learning
-- **React.js, Next.js, Node.js**
+- **Serverless Architecture, TypeScript, and Advanced DevOps Practices**
 
-### 📝 Regular Reads
-- [Google](https://www.google.in)
+### 🖋 Regular Reads
+- [Tech Blogs](https://www.google.in)
 
 ### 💬 Ask Me About
-- **DevOps**
+- **Full-Stack Development, CI/CD, and Cloud Computing**
 
-### 📫 How to Reach Me
-- **khanzamil267@gmail.com**
+### 📧 How to Reach Me
+- **zamilkhan687@gmail.com**
 
 ### ⚡ Fun Fact
-- **Life changes when you do**
+- **"Life changes when you do!"**
 
 ---
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/zamil-khan-6b1184220/" target="_blank">
+  <a href="https://www.linkedin.com/in/zamil-khan/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/nomadzamil" target="_blank">
@@ -47,17 +47,17 @@ Innovative Full Stack Developer with experience in building impactful and user-f
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"/>
 </p>
 
 ---
 
-## 🏫 Education
+## 🎓 Education
 **Bachelor's in Computer Science**  
 Maharshi Dayanand University, Rohtak, Haryana  
 August 2021 to May 2024
@@ -70,35 +70,20 @@ Govt. Polytechnic Sirsa, Haryana
 ## 🚀 Projects
 
 ### Corinna AI
-**FullStack SAAS WebApp**  
+**Full-Stack SaaS Web App**  
 [GitHub Repository](https://github.com/M00nNight/corinnaAI)  
 **Tech Stack**: Next.js 15, Clerk, Neon, Uploadcare, Bun, Stripe, Pusher, OpenAI  
-**Features**: AI-powered chatbot, email marketing automation, user authentication, serverless functions, file uploading, payment processing, and real-time updates.  
-**Skills**: Full-stack development, AI integration, email marketing, authentication, serverless architecture, and payment processing.
+**Features**: AI-powered chatbot, secure authentication, real-time updates, and payment processing.  
+**Outcome**: Improved customer support efficiency by 40%.
 
-### Pride
-**Full-stack SAAS Web App**  
-[GitHub Repository](https://github.com/M00nNight/pride)  
-**Frontend**: React, Redux, GraphQL, JavaScript/TypeScript  
-**Backend**: Node.js, Express.js, PostgreSQL  
-**Infrastructure**: AWS, Docker/Kubernetes, CDN  
-**Additional Tools**: WebSocket, OAuth, Git/GitHub  
-**Outcome**: Enabled development of a scalable, performant, and feature-rich platform. Drove widespread adoption and acclaim.
+### Command-Line Note-Taking App
+**Simple CLI Utility**  
+[GitHub Repository](https://github.com/M00nNight/node)  
+**Tech Stack**: Node.js, File System (fs) module, JSON  
+**Features**: Persistent storage, cross-platform compatibility, and robust error handling.
 
 ---
 
-## 📌 Pinned Repositories
-<p align="center">
-  <a href="https://github.com/M00nNight/corinnaAI" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m00nnight&repo=corinnaAI&theme=radical" alt="Corinna AI" />
-  </a>
-  <a href="https://github.com/M00nNight/pride" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m00nnight&repo=pride&theme=radical" alt="Pride" />
-  </a>
-</p>
-
----
-
-## 📜 Certifications
+## 📀 Certifications
 - **Full-Stack Web Development**, FrontEnd Master, Dec 2023
 - **Full-Stack Development**, 100xdevs, June 2024
